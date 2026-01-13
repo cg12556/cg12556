@@ -5,7 +5,7 @@ Product Owner by day, digital architect by night. Currently wrangling backlogs a
 **What I'm up to:**
 - Turning stakeholder chaos into actionable sprints ✨
 - Building products people might actually use (fingers crossed)
-- Convincing developers that "just one small change" is never small
-- Living the American dream: working remotely in sweatpants while pretending to be professional
+- Convincing developers that "just one small change" is never to small to be big.
+- Living the American dream - in Europa as a cowboy in the City. 
 
 *"In God we trust, all others must bring data"* - probably something I'd say in a sprint review
